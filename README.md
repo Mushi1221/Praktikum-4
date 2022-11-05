@@ -1,3 +1,6 @@
+### Nama : Muhammad Shiddiq
+### Kelas : TI.22.B1
+
 # Praktikum 4 
 ## Struktur kondisi dan perulangan 
 
